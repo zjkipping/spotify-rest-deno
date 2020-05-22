@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "deno run --allow-all src/app.ts",
+    "bundle": "deno bundle src/app.ts dist/index.js"
+  }
+}
